@@ -2,5 +2,8 @@ this is foobar2
 
 yet another change for this file
 
+<<<<<<< HEAD
 
 this is a local change
+
+this should cause a merge
